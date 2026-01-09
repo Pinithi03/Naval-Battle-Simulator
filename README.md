@@ -24,30 +24,30 @@ The project is implemented entirely in standard C, ensuring platform independenc
 - Each part extends previous logic without redesigning the core system
 - Incremental complexity from basic combat to tactical optimisation
 
-## 🧩 Simulation Breakdown
+##  Simulation Breakdown
 
-### 🔹 Part 1 (`pi1.c`) – Core Combat Engine
+###  Part 1 (`pi1.c`) – Core Combat Engine
 - Basic combat loop implementation
 - Hit detection and battlefield visualisation
 - Battle statistics and run tracking
 - Static ship positioning
 - Initial ship configuration and display
 
-### 🔹 Part 2 (`pi2.c`) – Mobility & Weapon Reliability
+###  Part 2 (`pi2.c`) – Mobility & Weapon Reliability
 - Battleship movement trajectories
 - Dynamic repositioning during combat
 - Multiple movement cycles (k movements)
 - Enhanced battlefield state tracking
 - Movement-based distance calculations
 
-### 🔹 Part 3 (`pi3.c`) – Damage Accumulation
+###  Part 3 (`pi3.c`) – Damage Accumulation
 - Escort ship impact power tracking
 - Battleship health system (initial health: 1.00)
 - Survival determined by cumulative damage instead of single hits
 - Health-based destruction logic
 - Damage accumulation over multiple encounters
 
-### 🔹 Part 4 (`pi4.c`) – Tactical Optimisation
+###  Part 4 (`pi4.c`) – Tactical Optimisation
 - Reload-aware firing logic
 - Intelligent target prioritisation
 - Maximised enemy neutralisation with reduced incoming damage
@@ -71,7 +71,7 @@ The project is implemented entirely in standard C, ensuring platform independenc
 - Sample output logs from test executions
 - Documentation and instructions for running the simulator
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 - GCC compiler (or compatible C compiler)
@@ -108,7 +108,7 @@ Each program will prompt you for:
 
 For detailed instructions, see [RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md).
 
-## 📖 Learning Outcomes
+## Learning Outcomes
 
 - Structured program design in C
 - Simulation modelling and randomised systems
@@ -118,7 +118,7 @@ For detailed instructions, see [RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md).
 - Memory management and array handling
 - Mathematical modelling (projectile physics)
 
-## 📊 Ship Types
+## Ship Types
 
 ### Battleships
 - **U** - USS Iowa (BB-61) with 50-caliber Mark 7 gun
@@ -133,7 +133,7 @@ For detailed instructions, see [RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md).
 - **Ed** - F-class Escort Ship (SK C/32 naval gun)
 - **Ee** - Japanese Kaibokan ((4.7 inch) naval guns)
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Physics Model
 - Gravitational acceleration: 9.81 m/s²
@@ -147,10 +147,6 @@ For detailed instructions, see [RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md).
 - Real-time position tracking
 - Distance calculations between ships
 
-## 📝 License
 
-See [LICENSE](LICENSE) file for details.
-
-## 👤 Author
 
 Developed as a first-year programming assignment, demonstrating progressive complexity in simulation design and C programming fundamentals.
