@@ -75,9 +75,5 @@ cat *.txt
 # U (battleship type)
 ```
 
-## Tips
 
-- The programs are interactive - you'll need to type responses
-- Make sure you're in the correct directory where the executables are
-- Output files are created in the same directory as the program
 
