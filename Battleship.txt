@@ -1,0 +1,13 @@
+   -- You Won -- 
+
+Details of Escort Ships Hit by the Battleship:
+
+Escort Ship 1 hit by the Battleship at time 0.00 seconds.
+
+Escort Ship 3 hit by the Battleship at time 1.00 seconds.
+
+Escort Ship 4 hit by the Battleship at time 2.00 seconds.
+
+Escort Ship 5 hit by the Battleship at time 3.00 seconds.
+
+Escort Ship 6 hit by the Battleship at time 4.00 seconds.

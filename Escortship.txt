@@ -1,0 +1,6 @@
+   -- You Lost -- 
+
+Escort Ship 1 (Ea) destroyed the battleship.
+Battleship destroyed by Escort Ship 2 (Eb).
+
+Total time taken for the battle: 6.00 seconds (Battleship destroyed).

@@ -1,0 +1,103 @@
+Escort Ship Positions:
+Ship 1: Ea at position (29, 19)
+Ship 2: Eb at position (6, 13)
+Ship 3: Ec at position (27, 34)
+Ship 4: Ed at position (11, 1)
+Ship 5: Ee at position (18, 23)
+Ship 6: Ea at position (24, 4)
+
+Battleship R at position (6, 32)
+
+Distances between E_Ships and B_ships:
+Distance between Ea and BattleShip: 33.29
+Distance between Eb and BattleShip: 19.00
+Distance between Ec and BattleShip: 21.10
+Distance between Ed and BattleShip: 31.40
+Distance between Ee and BattleShip: 15.00
+Distance between Ea and BattleShip: 33.29
+
+Escort Ship Details:
+Escort Ship Notation: Ea
+Escort Ship Type Name: 1943A-class Destroyer
+Escort Ship Angle Range: 20
+Escort Ship Gun Name: SK C/34 naval gun
+Escort Ship Impact: 0.08
+Escort Ship Min Angle: 57
+Escort Ship Max Angle: 77
+Escort Ship Max Velocity: 0.00
+Escort Ship Min Velocity: 0.00
+
+Escort Ship Notation: Eb
+Escort Ship Type Name: Gabbiano-class Corvette
+Escort Ship Angle Range: 30
+Escort Ship Gun Name: L/47 dual-purpose gun
+Escort Ship Impact: 0.06
+Escort Ship Min Angle: 32
+Escort Ship Max Angle: 62
+Escort Ship Max Velocity: 0.00
+Escort Ship Min Velocity: 0.00
+
+Escort Ship Notation: Ec
+Escort Ship Type Name: Matsu-class Destroyer
+Escort Ship Angle Range: 25
+Escort Ship Gun Name: Type 89 dual-purpose gun
+Escort Ship Impact: 0.07
+Escort Ship Min Angle: 75
+Escort Ship Max Angle: 100
+Escort Ship Max Velocity: 0.00
+Escort Ship Min Velocity: 0.00
+
+Escort Ship Notation: Ed
+Escort Ship Type Name: F-class Escort Ship
+Escort Ship Angle Range: 50
+Escort Ship Gun Name: SK C/32 naval gun
+Escort Ship Impact: 0.05
+Escort Ship Min Angle: 46
+Escort Ship Max Angle: 96
+Escort Ship Max Velocity: 0.00
+Escort Ship Min Velocity: 0.00
+
+Escort Ship Notation: Ee
+Escort Ship Type Name: Japanese Kaibokan
+Escort Ship Angle Range: 70
+Escort Ship Gun Name: (4.7 inch)naval guns
+Escort Ship Impact: 0.04
+Escort Ship Min Angle: 64
+Escort Ship Max Angle: 134
+Escort Ship Max Velocity: 0.00
+Escort Ship Min Velocity: 0.00
+
+
+Battleship Details:
+Battleship Notation: U
+Battleship Ship Name: USS Iowa (BB-61)
+Battleship Gun Name: 50-caliber Mark 7 gun
+Battleship Impact: 0.00
+Battleship Angle Range: 0
+Battleship Min Angle: 169890256
+Battleship Max Angle: 2
+
+Battleship Notation: M
+Battleship Ship Name: MS King George V
+Battleship Gun Name: (356mm)Mark VII gun
+Battleship Impact: 0.00
+Battleship Angle Range: 0
+Battleship Min Angle: 1
+Battleship Max Angle: 472
+
+Battleship Notation: R
+Battleship Ship Name: Richelieu
+Battleship Gun Name: (15inch)Mle 1935 gun
+Battleship Impact: 0.00
+Battleship Angle Range: 0
+Battleship Min Angle: 0
+Battleship Max Angle: 0
+
+Battleship Notation: S
+Battleship Ship Name: Sovetsky Soyuz-class
+Battleship Gun Name: (16inch)B-37 gun
+Battleship Impact: 0.00
+Battleship Angle Range: 0
+Battleship Min Angle: 2
+Battleship Max Angle: 169869336
+
